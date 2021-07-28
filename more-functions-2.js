@@ -11,4 +11,4 @@ const factor = function (number) {
     return sum;
 }  //function
 
-console.log(factor(29));
+console.log(factor(91));
